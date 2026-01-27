@@ -1,16 +1,13 @@
-## Hi there 👋
+# ¡Hola! Soy Edgar Estrella 👋
+### Analista de Datos Jr. | Business Intelligence
 
-<!--
-**Ediicore/Ediicore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me especializo en transformar datos en decisiones estratégicas. Tengo experiencia utilizando SQL y Python para resolver problemas complejos de negocio, desde la optimización de marketing hasta la eficiencia operativa.
 
-Here are some ideas to get you started:
+- 🛠 **Tecnologías:** SQL (PostgreSQL), Python (Pandas, Scikit-learn), Tableau.
+- 📈 **Enfoque:** Análisis de Cohortes, Machine Learning y métricas de negocio (ROMI, LTV).
+- 📫 **Contacto:** edgar.apple08@gmail.com
+- 🔗 **LinkedIn:** [https://www.linkedin.com/in/edgar-emmanuel-estrella-cruz-1114303a3/](https://www.linkedin.com/in/edgar-emmanuel-estrella-cruz-1114303a3/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Proyectos Destacados
+1. **Optimización de Marketing Analytics:** Análisis de rentabilidad de canales.
+2. **Análisis de Eficiencia Operativa:** Detección de ineficiencias en productividad.
