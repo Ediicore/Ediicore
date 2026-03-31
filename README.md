@@ -40,6 +40,9 @@ Especialista en transformar datos crudos en hallazgos accionables mediante **SQL
 ---
 
 ## 📫 Contacto
-* **LinkedIn:** [Tu LinkedIn aquí]
-* **Email:** edgar.apple08@gmail.com
-* **Ubicación:** CDMX, México
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](TU_LINK_AQUI)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edgar.apple08@gmail.com)
+
+---
+*Analizando datos, optimizando el futuro.*
