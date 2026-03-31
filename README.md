@@ -18,15 +18,14 @@ Especialista en transformar datos crudos en hallazgos accionables mediante **SQL
 
 ## 🛠️ Mi Caja de Herramientas
 
-| Área | Herramientas |
-| :--- | :--- |
-| **Lenguajes** | Python (Pandas, NumPy, SciPy, Matplotlib, Seaborn), SQL (PostgreSQL) |
-| **Bases de Datos** | Consultas complejas, Joins, Subconsultas y Agregaciones |
-| **Análisis & Estadística** | EDA, Pruebas de Hipótesis, ETL, Análisis de Cohortes |
-| **Machine Learning** | Modelos de Clasificación, Agrupación (K-means), Predicción de Churn |
-| **Visualización** | Streamlit, Dashboards interactivos y Storytelling de Datos |
-
----
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Seaborn](https://img.shields.io/badge/Seaborn-444444?style=for-the-badge&logo=python&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ## 🚀 Proyectos Destacados
 
