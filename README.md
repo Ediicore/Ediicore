@@ -1,48 +1,57 @@
 # Hola, soy Edgar Emmanuel Estrella Cruz 👋
-### Analista de Datos Jr. | Operational Analytics | SQL & Python | Logistics
+### Data Analyst | Especialista en Inteligencia de Negocio y Finanzas
 
-Soy un Analista de Datos con un enfoque profundo en la **identificación de patrones y tendencias** para optimizar la rentabilidad de negocio. Mi diferencial es un dominio estratégico de la **logística urbana en CDMX**, tras 10 años de experiencia directa y más de 26,000 viajes gestionados.
+---
 
-Especialista en transformar datos crudos en hallazgos accionables mediante **SQL y Python**, asegurando siempre la calidad de la información para la toma de decisiones basada en evidencia.
+## 📝 Sobre mí
+Soy un **Analista de Datos** enfocado en transformar datos crudos en decisiones estratégicas de rentabilidad. Mi diferencial combina un dominio técnico avanzado con una sólida visión de negocio, respaldada por:
+* 📉 **Experiencia en Nissan/BBVA:** Recuperación de **+$100k MXN mensuales** en cartera vencida.
+* 🚚 **Experiencia Operativa:** Gestión de **+26,000 viajes** y administración de **$240k MXN anuales** en presupuesto de flotilla.
+* 🎓 **Formación Elite:** Graduado de TripleTen con especialización en SQL, Python y Estadística.
 
 ---
 
 ## 📊 Mi Impacto en Cifras
-* 📈 **+26,000 viajes** gestionados con optimización de rutas y tiempos en CDMX.
-* 💰 **+$100k MXN mensuales** recuperados en cartera vencida para Nissan/BBVA.
-* ⚡ **15% de incremento** en productividad operativa mediante análisis de datos (Proyecto CallMeMaybe).
-* 📉 **Reducción de 2.2 min** en tiempos de espera promedio tras procesamiento de datasets masivos.
-* 💵 **$240k MXN anuales** administrados en presupuesto operativo de flotilla (Cash Flow).
+| Métrica | Logro Obtenido |
+| :--- | :--- |
+| 💰 **Recuperación Financiera** | +$100k MXN mensuales recuperados en activos. |
+| ⚡ **Eficiencia Operativa** | 15% de incremento en productividad mediante análisis de datos. |
+| ⏱️ **Optimización de Tiempo** | Reducción de 2.2 min en tiempos de espera promedio. |
+| 📈 **Escalabilidad** | Gestión y optimización de +26,000 servicios logísticos. |
 
 ---
 
 ## 🛠️ Mi Caja de Herramientas
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+</p>
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Seaborn](https://img.shields.io/badge/Seaborn-444444?style=for-the-badge&logo=python&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+---
 
 ## 🚀 Proyectos Destacados
 
-### [Análisis de Eficiencia Operativa | CallMeMaybe](LINK-A-TU-REPOSITORIO)
-* **Lo que hice:** Procesé datos de 1,092 operadores para identificar cuellos de botella en telecomunicaciones.
-* **Resultado:** Optimicé la productividad en un 15% y recuperé 1,086 llamadas perdidas.
+### [📞 Análisis de Eficiencia Operativa - CallMeMaybe](https://github.com/Ediicore/Analisis-Eficiencia-Call-Center)
+* **Impacto:** Optimización del 15% en la eficiencia general y recuperación de 1,086 llamadas perdidas mediante análisis de operadores.
+* **Tech:** Python (Pandas/Seaborn), Pruebas T de Student.
 
-### [Optimización de Marketing Analytics | Showz](LINK-A-TU-REPOSITORIO)
-* **Lo que hice:** Calculé el ROMI por cohorte para identificar canales no rentables.
-* **Resultado:** Redistribución estratégica del presupuesto hacia fuentes con mayor LTV.
+### [📈 Optimización de Marketing Analytics - Showz](https://github.com/Ediicore/Marketing-Analítica-Rentabilidad-ROMI)
+* **Impacto:** Identificación de canales con ROMI negativo y redistribución de presupuesto hacia segmentos de alto LTV.
+* **Tech:** Análisis de Cohortes, Métricas Financieras (CAC/LTV).
+
+### [🧪 Test A/B: Optimización de Interfaz App](https://github.com/Ediicore/Test-A-B-Interfaz-App-Movil)
+* **Impacto:** Validación estadística de cambios en UI, evitando gastos innecesarios de implementación mediante pruebas Z y Bonferroni.
+* **Tech:** Estadística Inferencial, Plotly (Funnel Analysis).
+
+### [📚 Inteligencia de Negocio con SQL](https://github.com/Ediicore/Analisis-Base-Datos-SQL-PostgreSQL)
+* **Impacto:** Extracción y segmentación de catálogos mediante queries complejas para fundamentar lanzamientos de plataforma.
+* **Tech:** PostgreSQL (JOINs, Subconsultas, CTEs).
 
 ---
 
-## 📫 Contacto
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](TU_LINK_AQUI)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edgar.apple08@gmail.com)
-
----
-*Analizando datos, optimizando el futuro.*
+## 🤝 ¡Conectemos!
+¿Buscas un analista que combine rigor técnico con visión financiera?
+[LinkedIn](https://www.linkedin.com/in/edgar-emmanuel-estrella-cruz-1114303a3/) | edgar.apple08@gmail.com
