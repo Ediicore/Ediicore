@@ -50,6 +50,9 @@ Soy un **Analista de Datos** enfocado en transformar datos crudos en decisiones 
 * **Impacto:** Extracción y segmentación de catálogos mediante queries complejas para fundamentar lanzamientos de plataforma.
 * **Tech:** PostgreSQL (JOINs, Subconsultas, CTEs).
 
+### [📦 Análisis de Logística y Mercado - E-commerce Olist](https://github.com/Ediicore/Analisis-Logistica-Ecommerce-Olist)
+* **Impacto:** Identificación de cuellos de botella en la última milla en Brasil y segmentación de métodos de pago para optimizar la cobranza.
+* **Tech:** Python (Pandas/Matplotlib), Análisis de Series Temporales.
 ---
 
 ## 🤝 ¡Conectemos!
